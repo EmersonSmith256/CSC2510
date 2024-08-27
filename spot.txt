@@ -1,1 +1,3 @@
 Spot is cool
+
+This is not the same as the first message
